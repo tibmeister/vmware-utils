@@ -19,9 +19,9 @@
 *.rar
 *.tar
 *.zip
-*.gz
-*.tar.gz
-*.bundle
+#*.gz
+#*.tar.gz
+#*.bundle
 
 # Logs and databases #
 ######################
